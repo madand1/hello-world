@@ -11,7 +11,7 @@ elif numero_dia == 2:
 elif numero_dia == 3:
     print("Día de la semana: Miércoles")
 elif numero_dia == 4:
-    print("Día de la semana: Jueves")
+    print("Día de la semana: Jueves") 
 elif numero_dia == 5:
     print("Día de la semana: Viernes")
 elif numero_dia == 6:

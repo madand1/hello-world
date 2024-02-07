@@ -23,3 +23,4 @@ Comision3 = (venta3 * 0.10)
 total = sueldo_base + Comision1 + Comision2 + Comision3
 
 print ("El sueldo total de este mes seria : ", total)
+

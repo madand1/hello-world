@@ -18,3 +18,5 @@ print (nombre[0])
 print (apellido[0])   
 
 print (apellido_2[0])
+
+#Va contando posiciones de los nombres

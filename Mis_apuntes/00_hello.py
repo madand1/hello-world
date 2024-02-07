@@ -18,4 +18,12 @@ comentario
 en varias lineas
 '''
 
-print (type ("Hola Python"))
+# Consultar el tipo de datos
+print (type ("Soy un tipo str")) # tipo 'str'
+print (type ("5")) #tipo 'int'
+print (type ("5.1")) #tipo 'float'
+print (type ("true")) #tipo  'boolean'
+print (type ("3 + 1j")) #tipo 'complex'
+
+print (type(print ("Mi cadena de texto"))) #tipo 'none-type'
+

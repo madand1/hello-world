@@ -12,6 +12,7 @@ muestra la “distancia” entre ellos
 numero1 = float (input('Dame el primer numero'))
 numero2 = float (input('Dame el segundo numero'))
 
+### abs es que me de el resultado en valor absoluto
 distancia = abs(numero1 - numero2)
 
 print ('La distancia es ......:' , distancia)

@@ -10,7 +10,6 @@ valen al final las dos variables.
 '''
 
 
-
 variable_a = float (input("Dame la primera variable :"))
 
 variable_b = float (input ("Dame la segunda variable :"))
